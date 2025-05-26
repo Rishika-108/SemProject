@@ -11,7 +11,7 @@ const CallToAction = () => {
       </p>
       <Link to="/movies">
         <button className="bg-gradient-to-r from-purple-600 via-pink-500 to-red-500 text-white px-10 py-4 rounded-full font-semibold text-lg shadow-lg hover:scale-105 transform transition">
-          🎟️ Explore Now
+          Explore Now
         </button>
       </Link>
     </section>

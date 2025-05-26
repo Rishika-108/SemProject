@@ -4,8 +4,6 @@ const HeroBanner = () => {
   return (
     <section
       className="relative h-[90vh] flex items-center justify-center bg-center bg-cover"
-      // style={{ backgroundImage: "url('/hero_banner')" }}
-      // style= {{ backgroundImage :  "assets.hero_banner" }}
        style={{ backgroundImage: `url(${assets.hero_banner})` }}
     >
       {/* Warm spotlight overlay */}
@@ -13,7 +11,7 @@ const HeroBanner = () => {
 
       <div className="relative z-10 text-center max-w-3xl px-6">
         <h1 className="text-5xl md:text-6xl font-semibold text-white leading-tight tracking-wide">
-          <span className="text-[#e0c188]">MovieVerse</span>
+          <span className="text-[#e0c188]">MovieMania</span>
           <span className="block text-gray-100 font-light text-2xl mt-4">
             Your curated cinematic escape.
           </span>

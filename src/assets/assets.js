@@ -27,7 +27,8 @@ export const dummyMovies = [
     rating: "N/A",
     duration: "TBA",
     cast: ["Vicky Kaushal", "Rashmika Mandanna", "Akshaye Khanna"],
-    poster:  Chhava
+    poster:  Chhava,
+    trailer : "https://www.youtube.com/watch?v=hs3w32RG8L8&t=13s"
   },
   {
     id: "2",
@@ -39,7 +40,8 @@ export const dummyMovies = [
     rating: "N/A",
     duration: "TBA",
     cast: ["Salman Khan", "Rashmika Mandanna", "Kajal Aggarwal"],
-    poster: sikandar
+    poster: sikandar,
+    trailer :  "https://www.youtube.com/watch?v=BAk5ZCoTWY8"
   },
   {
     id: "3",
@@ -51,7 +53,8 @@ export const dummyMovies = [
     rating: "N/A",
     duration: "TBA",
     cast: ["Hrithik Roshan", "N.T. Rama Rao Jr.", "Kiara Advani"],
-    poster: war2
+    poster: war2,
+    trailer :  "https://www.youtube.com/watch?v=dK1W-AViQ-M"
   },
   {
     id: "4",
@@ -63,7 +66,9 @@ export const dummyMovies = [
     rating: "N/A",
     duration: "TBA",
     cast: ["Alia Bhatt", "Sharvari"],
-    poster: alpha
+    poster: alpha,
+    trailer : "https://www.youtube.com/watch?v=8zqfxQcz7kM"
+    
   },
   {
     id: "5",
@@ -75,7 +80,8 @@ export const dummyMovies = [
     rating: "N/A",
     duration: "TBA",
     cast: ["Prabhas", "Sanjay Dutt", "Sai Pallavi"],
-    poster: rajasahab
+    poster: rajasahab,
+    trailer : "https://www.youtube.com/watch?v=YFZMBqyXkqQ"
   },
   {
     id: "6",
@@ -87,7 +93,8 @@ export const dummyMovies = [
     rating: "N/A",
     duration: "TBA",
     cast: ["Akshay Kumar", "Riteish Deshmukh", "Abhishek Bachchan", "Sanjay Dutt", "Jacqueline Fernandez"],
-    poster: houseful
+    poster: houseful,
+    trailer : "https://www.youtube.com/watch?v=e2eX1HGeBFE"
   },
   {
     id: "7",
@@ -99,7 +106,8 @@ export const dummyMovies = [
     rating: "N/A",
     duration: "TBA",
     cast: ["Shahid Kapoor", "Pooja Hegde"],
-    poster: deva
+    poster: deva,
+    trailer :"https://www.youtube.com/watch?v=3x77q40hATw"
   },
   {
     id: "8",
@@ -111,7 +119,8 @@ export const dummyMovies = [
     rating: "N/A",
     duration: "TBA",
     cast: ["Vishnu Manchu", "Prabhas", "Nayanthara"],
-    poster: kanapa
+    poster: kanapa,
+    trailer :"https://www.youtube.com/watch?v=_R66K_KnNeg"
   },
   {
     id: "9",
@@ -123,7 +132,8 @@ export const dummyMovies = [
     rating: "N/A",
     duration: "TBA",
     cast: ["Agastya Nanda", "Dharmendra"],
-    poster: ikkis
+    poster: ikkis,
+    trailer : "https://www.youtube.com/watch?v=PvhKZpjNrp0"
   },
   {
     id: "10",
@@ -135,7 +145,8 @@ export const dummyMovies = [
     rating: "N/A",
     duration: "TBA",
     cast: ["Kamal Haasan", "Trisha Krishnan"],
-    poster: thuglife
+    poster: thuglife,
+    trailer : "https://www.youtube.com/watch?v=96kAbj3IF3k"
   },
   {
     id: "11",
@@ -147,7 +158,8 @@ export const dummyMovies = [
     rating: "N/A",
     duration: "TBA",
     cast: ["Kartik Aaryan", "Triptii Dimri", "Vidya Balan"],
-    poster: bhool
+    poster: bhool,
+    trailer : "https://www.youtube.com/watch?v=6YMY62tMLUA"
   },
   {
     id: "12",
@@ -159,13 +171,14 @@ export const dummyMovies = [
     rating: "N/A",
     duration: "TBA",
     cast: ["Rajkummar Rao", "Shraddha Kapoor", "Pankaj Tripathi", "Aparshakti Khurana"],
-    poster: stree2
+    poster: stree2,
+    trailer : "https://www.youtube.com/watch?v=VlvOgk5BHS4"
   }
 ];
 
 export const featured = [
   {
-    id: "4",
+    id: "1",
     title: "Chhaava",
     poster: Chhava,
     genre: "Historical Drama",
