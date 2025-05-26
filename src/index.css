@@ -1,0 +1,6 @@
+* {
+    font-family: 'Delius';
+}
+body {
+  @apply bg-[#0f0f0f] text-white font-sans;
+}
